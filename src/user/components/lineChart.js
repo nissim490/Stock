@@ -27,10 +27,10 @@ const dataSales = {
         {
             label:' Growth Sales',
             data :sales,
-            borderColor:['rgba(200,15,20,0.5)'],
-            backgroundColor:['rgba(200,15,20,0.5)'],
-            pointBackgroundColor:['rgba(200,15,20,0.5)'],
-            pointBorderColor:['rgba(200,15,20,0.5)']
+            borderColor:['#3b63d1'],
+            backgroundColor:['#3b63d1'],
+            pointBackgroundColor:['#3b63d1'],
+            pointBorderColor:['#3b63d1']
         },
     ]
 }
@@ -41,10 +41,10 @@ const dataEps = {
         {
             label:'Growth Eps',
             data:eps,
-            borderColor:['rgba(200,15,20,0.5)'],
-            backgroundColor:['rgba(200,15,20,0.5)'],
-            pointBackgroundColor:['rgba(200,15,20,0.5)'],
-            pointBorderColor:['rgba(200,15,20,0.5)']
+            borderColor:['#3b63d1'],
+            backgroundColor:['#3b63d1'],
+            pointBackgroundColor:['#3b63d1'],
+            pointBorderColor:['#3b63d1']
         },
        
     ]
@@ -56,10 +56,10 @@ const dataEquity = {
         {
             label:'Growth Equity',
             data:equity,
-            borderColor:['rgba(200,15,20,0.5)'],
-            backgroundColor:['rgba(200,15,20,0.5)'],
-            pointBackgroundColor:['rgba(200,15,20,0.5)'],
-            pointBorderColor:['rgba(200,15,20,0.5)']
+            borderColor:['#3b63d1'],
+            backgroundColor:['#3b63d1'],
+            pointBackgroundColor:['#3b63d1'],
+            pointBorderColor:['#3b63d1']
         },
        
     ]
@@ -72,10 +72,10 @@ const dataNetOperatingCashFlow = {
         {
             label:'Growth Eet Operating Cash Flow',
             data:netOperatingCashFlow,
-            borderColor:['rgba(200,15,20,0.5)'],
-            backgroundColor:['rgba(200,15,20,0.5)'],
-            pointBackgroundColor:['rgba(200,15,20,0.5)'],
-            pointBorderColor:['rgba(200,15,20,0.5)']
+            borderColor:['#3b63d1'],
+            backgroundColor:['#3b63d1'],
+            pointBackgroundColor:['#3b63d1'],
+            pointBorderColor:['#3b63d1']
         },
        
      
@@ -89,10 +89,10 @@ const dataRoic = {
         {
             label:'Roic',
             data:roic,
-            borderColor:[' rgba(200,15,20,0.5)'],
-            backgroundColor:[' rgba(200,15,20,0.5)'],
-            pointBackgroundColor:[' rgba(200,15,20,0.5)'],
-            pointBorderColor:[' rgba(200,15,20,0.5)']
+            borderColor:[' #3b63d1'],
+            backgroundColor:[' #3b63d1'],
+            pointBackgroundColor:[' #3b63d1'],
+            pointBorderColor:[' #3b63d1']
         },
        
      

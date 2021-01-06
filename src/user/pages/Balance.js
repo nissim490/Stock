@@ -91,7 +91,7 @@ const Balance = () => {
       maxHeight: '50%', // TODO: don't cheat, let it flow to the bottom
       transition: "all .3s",
       zIndex: 100,
-      borderBottom:'3px solid #dc3545',
+      borderBottom:'3px solid #3b63d1',
     };
   return (
     <React.Fragment>
@@ -111,7 +111,7 @@ const Balance = () => {
         getItemValue={item => item}
         renderItem={(item, isHighlighted) =>
           <div
-          style={{ position: 'none',  color:'black',background: isHighlighted ? '#dc3545' : 'white' }}
+          style={{ position: 'none',  color:'black',background: isHighlighted ? '#3b63d1' : 'white' }}
           >
             <b>{item}</b>
             
