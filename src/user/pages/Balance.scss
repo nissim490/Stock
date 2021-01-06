@@ -1,0 +1,367 @@
+
+
+
+
+
+@media only screen and (max-width: 480px)
+{
+  
+  .AutoComplet{
+  max-width: 25rem;
+  margin-left: 11rem;
+  max-height: 90rem;
+  width: 50%
+}
+.m5{
+  margin-left: 15rem;
+ 
+  }
+  .m4{
+    margin-left: 3rem;
+   
+    }
+}
+@media only screen and (max-width: 769px)
+{.navigation__background {
+  height: 6rem;
+  width: 6rem;
+  border-radius: 50%;
+  position: fixed;
+  top: 6.5rem;
+  right: 3rem;
+  background-image: radial-gradient(#ce0000, #eeeeee);
+  z-index: 1000;
+  transition: transform 0.8s cubic-bezier(0.86, 0, 0.07, 1); }
+
+  
+.navigation__button {
+  background-color: rgb(233, 232, 232);
+  height: 7rem;
+  width: 7rem;
+  position: fixed;
+  top: 6rem;
+  right: 2rem;
+  border-radius: 50%;
+  z-index: 2000;
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.1);
+  text-align: center;
+  cursor: pointer; }
+  
+  .BarChart2{
+    margin-top: 5rem;
+    margin-left:-3rem;
+  }
+
+  .Sales{
+    width: 50rem;
+    max-height: 27rem;
+    
+  }
+  
+  .form  {
+    margin-left:-3rem;
+   }
+  .Eps{
+    
+   width: 50rem;
+    max-width: 180rem;
+    max-height: 27rem;
+ 
+  }
+  .Equity{
+   width: 50rem;
+    max-width: 180rem;
+    max-height: 27rem;
+  }
+  .NetOperatingCashFlow{
+   width: 50rem;
+    max-width: 180rem;
+    max-height: 27rem;
+  }
+  .m12{
+    font-size: 0.4rem;
+   
+    }
+  .MyTable {
+    width: 70rem;
+    max-height: 25rem;
+    margin-left: 1rem;
+    margin-left:-4rem;
+  }
+  .AutoComplet{
+  max-width: 25rem;
+  margin-left: 11rem;
+  max-height: 90rem;
+  width: 50%
+}
+.m5{
+  margin-left: 19rem;
+  margin-top: -14rem;
+  padding: 0.4rem 2rem;
+  }
+  .m4{
+    margin-left: 0.5rem;
+    margin-top: 2rem;
+    padding: 0.4rem 2rem;
+    width: 65%;
+    
+    }
+    .Roic{
+      width: 50rem;
+      max-width: 180rem;
+      max-height: 27rem;
+    }
+    .BarChart{
+      margin-left:-1rem;
+      max-height: 42rem;
+      width: 70rem;
+   /*    margin-left: -45rem;
+      margin-top: 82rem; */
+    }
+  
+ 
+}
+@media only screen and (min-width: 1025px)
+{
+  
+  .LinerCahrtContiner{
+   
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row ;
+    justify-content: center; 
+   
+    margin-top: 3rem;
+  }
+.MyTable {
+  padding: 0;
+  width: 90%;
+  max-width: 118rem;
+  margin: 7rem auto;
+  text-align: center;
+  max-height: 25.7rem;
+  border-radius:10px;
+}
+  
+
+  .Sales{
+    padding: 0;
+    width: 90%;
+    max-width: 50rem;
+    margin: 7rem auto;
+    text-align: center;
+    max-height: 30rem;
+    border-radius:10px;
+    border-top: 2px solid#dc3545;
+    border-bottom: 2px solid#dc3545;
+
+    margin: 35px;
+    margin-bottom: 55px;
+  }
+  
+  
+  .Eps{
+    padding: 0;
+    width: 90%;
+    max-width: 50rem;
+    margin: 7rem auto;
+    text-align: center;
+    max-height: 30rem;
+    border-radius:10px;
+    border-top: 2px solid#dc3545;
+    border-bottom: 2px solid#dc3545;
+    
+    margin: 35px;
+    margin-bottom: 55px;
+  }
+  .Equity{
+    padding: 0;
+    width: 90%;
+    max-width: 50rem;
+    margin: 7rem auto;
+    text-align: center;
+    max-height: 30rem;
+    border-radius:10px;
+    border-top: 2px solid#dc3545;
+    border-bottom: 2px solid#dc3545;
+  
+    margin: 35px;
+    margin-bottom: 55px;
+  }
+  .NetOperatingCashFlow{
+    padding: 0;
+    width: 90%;
+    max-width: 50rem;
+    margin: 7rem auto;
+    text-align: center;
+    max-height: 30rem;
+    border-radius:10px;
+    border-top: 2px solid#dc3545;
+    border-bottom: 2px solid#dc3545;
+
+    margin: 35px;
+    margin-bottom: 55px;
+  }
+ 
+  .AutoComplet{
+  max-width: 25rem;
+  margin-left: 61rem;
+  max-height: 90rem;
+}
+
+
+  .form  {
+    margin-left: -2rem;
+    margin-top: 10rem;
+   }
+
+ 
+    .Roic{
+      padding: 0;
+      width: 90%;
+      max-width: 50rem;
+      margin: 7rem auto;
+      text-align: center;
+      max-height: 30rem;
+      border-radius:10px;
+      border-top: 2px solid#dc3545;
+      border-bottom: 2px solid#dc3545;
+      flex: 1 0 45%; /* explanation below */
+      margin: 35px;
+      margin-bottom: 55px;
+    }
+    .BarChart2{
+      padding: 0;
+      width: 90%;
+      max-width:36rem;
+      border-top: 2px solid#dc3545;
+      border-bottom: 2px solid#dc3545;
+      text-align: center;
+      max-height: 70rem;
+      border-radius:10px;
+      width: 620px;
+  
+   
+    }
+    .BarChart{
+      padding: 0;
+      width: 90rem;
+      max-width: 70rem;
+      border-top: 2px solid#dc3545;
+      border-bottom: 2px solid#dc3545;
+      text-align: center;
+      max-height: 38rem;
+      border-radius:10px;
+      width: 620px;
+  
+      
+    }
+    .navigation__button {
+      background-color: rgb(233, 232, 232);
+      height: 7rem;
+      width: 7rem;
+      position: fixed;
+      top: 6rem;
+      right: 6rem;
+      border-radius: 50%;
+      z-index: 2000;
+      box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.1);
+      text-align: center;
+      cursor: pointer; }
+    .cahrtContiner{
+    
+      display: flex; 
+      flex-wrap: wrap;
+      flex-direction: row ;
+      justify-content: center; 
+      align-items: center;
+      
+  }
+ 
+
+
+}
+.AutoComplet{
+  padding: 0;
+  width: 90%;
+  max-width: 55rem;
+  margin: 7rem auto;
+  text-align: center;
+  max-height: 10rem;
+  border-radius:10px;
+  
+  margin-top: 3rem;
+}
+
+  
+
+.section {
+  text-align: center;
+}
+
+
+.u-center-text{
+  margin-top: 2rem;
+  }
+ 
+
+
+
+
+
+.table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  background-color: #ffffff;
+  color: #0c0c09;;
+  border-bottom: 2px solid #020705;
+}
+.table td {
+  padding: 0.75rem;
+  vertical-align: top;
+  background-color: #ffffff;
+  border-left: 2px solid #dc3545;;
+  border-right: 2px solid #dc3545;;
+  border-bottom: 2px solid #dc3545;;
+  
+}
+.table , .table thead {
+  padding: 0.75rem;
+ 
+  vertical-align: top;
+  background-color: #dc3545;
+  border-bottom: 2px solid #dc3545;
+  border-top: 2px solid#dc3545;
+  
+}
+
+.table tr {
+  vertical-align: bottom;
+  border-bottom: 2px solid #dc3545;
+  border-left: 2px solid #dc3545;
+  border-right: 2px solid #dc3545;
+}
+.table tr {
+  vertical-align: bottom;
+  border-bottom: 2px solid #dc3545;
+  border-left: 2px solid #dc3545;
+  border-right: 2px solid #dc3545;
+}
+
+
+
+    .form2  {
+      color:red;
+      text-align: center;
+     }
+     .icon{
+     color: black;
+      
+      font-size: 20px;
+     }
+     .icon2{
+      color: black;
+       
+      
+      }
